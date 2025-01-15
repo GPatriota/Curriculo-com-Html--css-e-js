@@ -12,7 +12,7 @@
 <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/022563be-9086-4efd-b903-bccf66b41e82"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/022563be-9086-4efd-b903-bccf66b41e82.svg" alt="wakatime"></a>
 </p>
 
-![Preview](./assets/img/preview.png)
+![Preview](./assets/img/preview.jfif)
 
 ## 🚀 Tecnologias para o projeto
 
